@@ -1,0 +1,22 @@
+{
+  "name": "ucom-libs-graphql-schemas",
+  "version": "1.0.0",
+  "description": "GraphQL schemas to reuse between different services",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UOSnetwork/ucom.libs.graphql-schemas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UOSnetwork/ucom.libs.graphql-schemas/issues"
+  },
+  "homepage": "https://github.com/UOSnetwork/ucom.libs.graphql-schemas#readme"
+}
