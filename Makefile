@@ -7,3 +7,6 @@ publish:
 
 check-project:
 	/bin/bash ./check-project.sh
+
+print-current-version pcv:
+	npm list | grep 'graphql'
